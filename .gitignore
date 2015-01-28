@@ -12,6 +12,7 @@ release.properties
 #####=== Java ===#####
 
 *.class
+*.xmi
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
